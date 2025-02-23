@@ -34,7 +34,7 @@ public class Application {
             i++;
             count++;
         }
-        for(int j=0;j<count; j++) {
+        for (int j = 0; j < count; j++) {
             studentDTO[j].getInformation();
         }
     }
