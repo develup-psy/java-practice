@@ -1,6 +1,4 @@
-package com.class_and_object.level02.normal.book.model.dto;
-
-import java.awt.print.Book;
+package com.chap06_class_and_object.level02.normal.book.model.dto;
 
 public class BookDTO {
     private String title;

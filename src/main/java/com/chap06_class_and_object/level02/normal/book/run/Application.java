@@ -1,6 +1,6 @@
-package com.class_and_object.level02.normal.book.run;
+package com.chap06_class_and_object.level02.normal.book.run;
 
-import com.class_and_object.level02.normal.book.model.dto.BookDTO;
+import com.chap06_class_and_object.level02.normal.book.model.dto.BookDTO;
 
 public class Application {
     public static void main(String[] args) {

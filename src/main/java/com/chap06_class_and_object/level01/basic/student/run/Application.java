@@ -1,6 +1,6 @@
-package com.class_and_object.level01.basic.student.run;
+package com.chap06_class_and_object.level01.basic.student.run;
 
-import com.class_and_object.level01.basic.student.model.dto.StudentDTO;
+import com.chap06_class_and_object.level01.basic.student.model.dto.StudentDTO;
 
 import java.util.Scanner;
 

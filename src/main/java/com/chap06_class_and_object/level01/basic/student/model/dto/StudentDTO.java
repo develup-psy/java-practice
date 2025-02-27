@@ -1,4 +1,4 @@
-package com.class_and_object.level01.basic.student.model.dto;
+package com.chap06_class_and_object.level01.basic.student.model.dto;
 
 public class StudentDTO {
     private int grade;
